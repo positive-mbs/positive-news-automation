@@ -1,0 +1,12 @@
+{
+  "brand": "THE GOOD NEWS DAILY",
+  "tagline": "REAL STORIES. REAL HOPE.",
+  "feeds": [
+    {"name":"Positive News", "url":"https://www.positive.news/feed/"},
+    {"name":"Good News Network", "url":"https://www.goodnewsnetwork.org/feed/"}
+  ],
+  "max_age_days": 14,
+  "max_candidates": 20,
+  "stories_per_post": 3,
+  "require_manual_approval": true
+}
